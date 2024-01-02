@@ -21,5 +21,5 @@ Este proyecto es un ejemplo de un CRUD (Create, Read, Update, Delete) desarrolla
 
 
 ## Screenshots
-![Home](https://postimg.cc/f35kxYKw][img]https://i.postimg.cc/f35kxYKw/Captura.png) 
+![Home](imagenes/Captura.png) 
 
