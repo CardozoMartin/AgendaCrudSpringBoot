@@ -21,5 +21,5 @@ Este proyecto es un ejemplo de un CRUD (Create, Read, Update, Delete) desarrolla
 
 
 ## Screenshots
-![Home](imagenes/Captura.png) 
+![Captura](https://github.com/CardozoMartin/AgendaCrudSpringBoot/assets/98791546/c819f8af-0b7f-41c5-962e-b2d37e8e7528)
 
