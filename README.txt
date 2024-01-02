@@ -17,5 +17,9 @@ Este proyecto es un ejemplo de un CRUD (Create, Read, Update, Delete) desarrolla
    cd ejemploCrud
 
 
+
+
+
 ## Screenshots
-![Home](https://i.postimg.cc/0yFLRmyr/home.png) ![Register](https://i.postimg.cc/Kj3MWdq1/register.png) ![Contact](https://i.postimg.cc/fbH5QQKC/contact.png)
+![Home](https://postimg.cc/f35kxYKw][img]https://i.postimg.cc/f35kxYKw/Captura.png) 
+
