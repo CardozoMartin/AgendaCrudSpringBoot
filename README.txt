@@ -13,5 +13,9 @@ Este proyecto es un ejemplo de un CRUD (Create, Read, Update, Delete) desarrolla
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/tu-proyecto.git
-   cd tu-proyecto
+   git clone https://github.com/CardozoMartin/AgendaCrudSpringBoot.git
+   cd ejemploCrud
+
+
+## Screenshots
+![Home](https://i.postimg.cc/0yFLRmyr/home.png) ![Register](https://i.postimg.cc/Kj3MWdq1/register.png) ![Contact](https://i.postimg.cc/fbH5QQKC/contact.png)
